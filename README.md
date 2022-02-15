@@ -1,4 +1,4 @@
-# Assignment
+# Introduction
 
 Testing **three** functionalities in the `hello-canada` app using JEST framework
 
